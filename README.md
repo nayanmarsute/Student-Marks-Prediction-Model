@@ -69,6 +69,10 @@ The model uses the following student-related features:
 The target variable is the student's predicted academic marks.
 
 ---
+##Screenshots
+
+<img width="1846" height="882" alt="Screenshot 2026-09-26 181423" src="https://github.com/user-attachments/assets/f34cbbc9-3c16-4fe2-83de-f20af809464e" />
+
 
 ## 🔄 Machine Learning Workflow
 
