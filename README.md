@@ -1,4 +1,4 @@
-🎓 Student Marks Prediction using Machine Learning
+###🎓 Student Marks Prediction using Machine Learning
 
 An end-to-end Machine Learning project that predicts a student's final exam marks from academic and study-related factors using Multiple Linear Regression, with an interactive Streamlit interface.
 
