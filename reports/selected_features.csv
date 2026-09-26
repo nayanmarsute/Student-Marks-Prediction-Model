@@ -1,0 +1,9 @@
+selected_feature
+numeric__study_hours
+numeric__attendance_percentage
+numeric__previous_exam_marks
+numeric__assignment_marks
+numeric__internal_marks
+numeric__practice_test_score
+numeric__sleep_hours
+categorical__internet_quality_Poor

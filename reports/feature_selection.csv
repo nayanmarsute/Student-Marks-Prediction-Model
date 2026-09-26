@@ -1,0 +1,15 @@
+feature,f_score,selected
+numeric__study_hours,731.0753403256151,True
+numeric__previous_exam_marks,111.67183092377837,True
+numeric__practice_test_score,60.25634035548465,True
+numeric__assignment_marks,36.3669691071898,True
+numeric__internal_marks,25.74600139179457,True
+numeric__sleep_hours,16.20459107512597,True
+numeric__attendance_percentage,15.790838071920415,True
+categorical__study_environment_Library,5.2269081296042215,True
+categorical__internet_quality_Good,2.9774168078144787,True
+categorical__study_environment_Home,2.5519958759643107,True
+categorical__internet_quality_Average,2.5488239540131343,True
+categorical__study_environment_Hostel,0.3334151025777195,True
+categorical__internet_quality_Poor,0.06599725495227433,True
+categorical__study_environment_Cafeteria,0.009824293467116345,True

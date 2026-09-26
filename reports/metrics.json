@@ -1,0 +1,58 @@
+{
+  "primary_model": "Linear Regression",
+  "linear_regression": {
+    "MAE": 0.778117600777988,
+    "MSE": 0.9986482778156442,
+    "RMSE": 0.999323910359221,
+    "R2": 0.9512761695977064,
+    "CV_RMSE_5Fold": 0.9536756298425685
+  },
+  "models": {
+    "Linear Regression": {
+      "MAE": 0.778117600777988,
+      "MSE": 0.9986482778156442,
+      "RMSE": 0.999323910359221,
+      "R2": 0.9512761695977064,
+      "CV_RMSE_5Fold": 0.9536756298425685
+    },
+    "Ridge Regression": {
+      "MAE": 0.7779460584428991,
+      "MSE": 0.9978179284678508,
+      "RMSE": 0.9989083684041549,
+      "R2": 0.9513166821602326,
+      "CV_RMSE_5Fold": 0.9536186521210949
+    },
+    "Random Forest": {
+      "MAE": 1.4113452325388862,
+      "MSE": 3.1386495064687696,
+      "RMSE": 1.7716234098895762,
+      "R2": 0.8468659791013451,
+      "CV_RMSE_5Fold": 1.8645931052033347
+    },
+    "Gradient Boosting": {
+      "MAE": 1.3903273361186923,
+      "MSE": 3.1284817395614786,
+      "RMSE": 1.7687514634796713,
+      "R2": 0.8473620622182605,
+      "CV_RMSE_5Fold": 1.7451225347024368
+    }
+  },
+  "data_quality": {
+    "raw_rows": 805,
+    "duplicates_removed": 5,
+    "invalid_values_found": 3,
+    "missing_cells_before_imputation": 11,
+    "iqr_outliers_by_feature": {
+      "study_hours": 3,
+      "attendance_percentage": 6,
+      "previous_exam_marks": 4,
+      "assignment_marks": 1,
+      "internal_marks": 8,
+      "practice_test_score": 8,
+      "sleep_hours": 4
+    },
+    "clean_rows": 800
+  },
+  "train_rows": 640,
+  "test_rows": 160
+}
